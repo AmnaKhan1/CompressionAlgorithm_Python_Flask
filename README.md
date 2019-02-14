@@ -5,7 +5,7 @@ When it is given Compressed words file as input, it calls decode() and returns d
 ## Logic:
 The algorithm works on the principle of encoding words by:
 
-1. finding the prefix
+1. Finding the prefix that exactly exists in the previous word.
 
 2. Counting it's length
 
