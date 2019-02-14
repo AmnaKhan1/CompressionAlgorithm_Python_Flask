@@ -1,5 +1,5 @@
 ## CompressionAlgorithm_Python_Flask
-##It takes Decompressed words as input and return a Compressed file as output by Calling encode(). 
+It takes Decompressed words as input and return a Compressed file as output by Calling encode(). 
 When it is given Compressed words file as input, it calls decode() and returns decompressed file of words.
 
 ## Logic:
