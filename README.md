@@ -12,3 +12,8 @@ The algorithm works on the principle of encoding words by:
 3. Writing the length and then the remaining word.
 
 4. The file is decoded on the basis of this prefix length.
+
+
+## Run:
+
+I run the python file using the tool insomnia.
